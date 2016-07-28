@@ -1,6 +1,6 @@
 # Froget
 The rpg Froget is unlike a game you played. Froget is a 2d game.
-use wasd to move
+use up, down, left and right to move
 
 
 
